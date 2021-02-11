@@ -1,2 +1,4 @@
 # Integrated Diffusion
 Integration of diffusion operators for high dimensional multimodal data analysis
+
+We propose a novel method called integrated diffusion for combining multimodal datasets, or data gathered via several different measurements on the same system, to create a joint data diffusion operator. As real world data suffers from both local and global noise, we introduce mechanisms to optimally calculate a diffusion operator that reflects the combined information from both modalities. We show the utility of this joint operator in data denoising, visualization and clustering, performing better than other methods to integrate and analyze multimodal data. Our approach better visualizes the geometry of the joint data, captures known cross-modality associations and identifies known populations. More generally, integrated diffusion is broadly applicable to multimodal datasets generated in many medical and biological systems. Read more about it in our preprint:
