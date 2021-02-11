@@ -1,2 +1,2 @@
-# Integrated_Diffusion
+# Integrated Diffusion
 Integration of diffusion operators for high dimensional multimodal data analysis
